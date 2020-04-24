@@ -1,2 +1,2 @@
 # horseshoe_priors
-6.436 project
+6.435 project
